@@ -1,0 +1,11 @@
+{
+  "name": "nanopi-neo-gpio",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
